@@ -55,7 +55,7 @@
 
 터미널에서 다음 명령어를 사용하여 리포지토리를 클론합니다:
 
-<pre> git clone [리포지토리 URL] </pre>
+<pre> git clone https://github.com/BitbrothersMoonBJ/Babel_Nexon-Tutorial.git </pre>
 
 프로젝트 폴더를 Unity로 열고 빌드를 진행합니다.
   
